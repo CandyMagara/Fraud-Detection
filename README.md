@@ -1,5 +1,5 @@
 # Fraud-Detection
-Using python to detect fraudulent transactions.
+Using python and machine learning techniques to detect fraudulent credit card transactions.
 
 This project aims to identify fraudulent credit card transactions using python and machine learning techniques. The data is obtained from Kaggle (<a href='https://www.kaggle.com/mlg-ulb/creditcardfraud' target='_blank'>link</a>). This project will compare the performance of four different classifiers in how well they detect fraud and look at how to handle imbalanced data.
 
